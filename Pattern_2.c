@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+In order to run this code in C++ remove the first header file(stdio.h) and add :
+#include<iostream>
+#include<cstdio>
+*/
+
 int main()
 {
 	int rows;
